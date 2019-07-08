@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PlayFramework Dependencies">
+    <CLASSES>
+      <root url="file://C:/Tools/play-framework/framework/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Tools/play-framework/framework/lib" recursive="false" />
+  </library>
+</component>
